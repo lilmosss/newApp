@@ -13,7 +13,7 @@ struct ContentView: View {
             Text("This is My App")
                 .font(.largeTitle)
                 .foregroundColor(Color.pink)
-            Text("hello world")
+            Text("hello world!")
         }
         .padding()
     }
